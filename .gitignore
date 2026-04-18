@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data & models
+*.pkl
+*.joblib
+*.db
+*.sqlite3
+*.csv
+
+# Environment
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
